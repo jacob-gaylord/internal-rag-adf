@@ -1,0 +1,9 @@
+{
+	"name": "df-internal-3c-rag",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edab7fe4-dc7c-457f-8e03-429a531e6c4c",
+		"tenantId": "ed9aa516-5358-4016-a8b2-b6ccb99142d0"
+	}
+}
